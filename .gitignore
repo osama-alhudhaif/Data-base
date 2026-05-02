@@ -1,0 +1,14 @@
+# Database dumps with data — NEVER commit
+*.dump
+*.sql.gz
+*.sql.bak
+*backup*.sql
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
