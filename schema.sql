@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 4xyAV2t2lOjSMdBBhDsFc0WuJ5Ckeb9ZxF0I839JKER4GaZyNRE3XDQqdnI2zev
+\restrict x2J9f9af8045MbEal0ICCyeF4HIXa8oQNQPvdNLLbEI4B6gAx9yTVASWAYSVP0s
 
 -- Dumped from database version 18.3 (Ubuntu 18.3-1.pgdg24.04+1)
 -- Dumped by pg_dump version 18.3 (Ubuntu 18.3-1.pgdg24.04+1)
@@ -1100,5 +1100,5 @@ ALTER TABLE ONLY public.stories_storylike
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 4xyAV2t2lOjSMdBBhDsFc0WuJ5Ckeb9ZxF0I839JKER4GaZyNRE3XDQqdnI2zev
+\unrestrict x2J9f9af8045MbEal0ICCyeF4HIXa8oQNQPvdNLLbEI4B6gAx9yTVASWAYSVP0s
 
